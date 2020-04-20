@@ -1,0 +1,34 @@
+# The following script takes input from the user and places 
+# it in a frame based on user-defined formatting
+#
+# SKILLS:
+#       1.decision making with user input
+#
+# Author:
+#
+#
+# 
+sentence = input("Please enter something: ")
+
+# FRAME EXAMPLE
+# Look at these two examples what looks the same what looks different?
+#  ------------
+#  -   David  -
+#  ------------
+
+# --------------------------
+# -    Do your homework    -
+# --------------------------
+
+# SENTENCE STATISTICS --------------------------------------------
+
+# How do you assign the variable sentence_length?
+print("sentence length:", sentence_length)
+
+
+# *********** PUT YOUR CODE HERE *********************************
+print("-"*sentence_length)
+
+
+
+
